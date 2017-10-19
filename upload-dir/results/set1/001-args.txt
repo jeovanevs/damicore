@@ -1,5 +1,0 @@
-/home/pc/NetBeansProjects/damicore/upload-dir/set1
---results-dir
-/home/pc/NetBeansProjects/damicore/upload-dir/results
--c
-zlib
